@@ -1,0 +1,14 @@
+{
+  "name": "native-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node --test src/__test__"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
